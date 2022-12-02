@@ -1,3 +1,4 @@
+workflow
 Param(
     [Parameter(mandatory = $true)]
     [string] $resourceGroupName,
